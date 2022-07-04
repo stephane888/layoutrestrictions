@@ -1,0 +1,4 @@
+administer layoutrestrictions configuration:
+  title: 'Administer layoutrestrictions configuration'
+  description: 'Optional description.'
+  restrict access: true
